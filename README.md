@@ -4,7 +4,7 @@ Inspired by Slack, this project mimics the styling, layout, and functionality of
 
 ## Demo
 
-View the application at [https://slack.jeffreylee.dev/](https://slack.jeffreylee.dev/)
+View the application at [https://slack-clone-prod-ae078.web.app/](https://slack-clone-prod-ae078.web.app/)
 
 ## Technologies Used
 
